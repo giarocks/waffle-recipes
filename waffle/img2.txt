@@ -1,6 +1,10 @@
 test all recipes
+<<<<<<< HEAD
 now try pulling master to gia
 added img 2
 
 
 -- change to eagle/wafle/img2 and push to later sync on giarocks
+=======
+neo
+>>>>>>> n\ew
